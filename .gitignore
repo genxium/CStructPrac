@@ -1,0 +1,7 @@
+*~
+*.sw*
+*.dSYM*
+main
+*.o
+*.s
+core
